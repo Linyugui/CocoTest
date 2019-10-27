@@ -11,7 +11,7 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/Linyugui/CocoSpecs'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '446046940@qq.com' => '446046940@qq.com' }
+  s.author           = { 'Linyugui' => '446046940@qq.com' }
   s.source           = { :git => 'https://github.com/Linyugui/CocoSpecs.git', :tag => s.version.to_s }
 
 
